@@ -7,7 +7,10 @@ Inclusão, Alteração, Exclusão, Listagem das seguintes Entidades:
 * Salary
 * Person
 
-Coleção postman incluído na pasta postman
+Banco de Dados: H2
+
+Coleção postman para teste incluído na pasta postman
+
 Implantação do sistema na nuvem através do Heroku
 
 
