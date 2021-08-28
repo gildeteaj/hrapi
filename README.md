@@ -2,12 +2,12 @@
 
 Neste projeto foi desenvolvido uma pequena api para gestão de pessoas de uma empresa através de uma API REST, criada com o Spring Boot.
 Inclusão, Alteração, Exclusão, Listagem das seguintes Entidades:
-* Departamento
+* Departament
 * Role
-* Salário
-* Pessoa
+* Salary
+* Person
 
-
+Coleção postman incluído na pasta postman
 Implantação do sistema na nuvem através do Heroku
 
 
